@@ -1,0 +1,52 @@
+# Dikshika-Adhikari
+# Hi 👋, I'm Dikshika Adhikari
+
+🎓 BICTE Student from Nepal  
+💻 Passionate about Web Development and Database Management  
+🌱 Currently learning HTML, CSS, JavaScript, DBMS, and MERN Stack  
+🎯 Goal: Become a Full-Stack Developer
+
+---
+
+## 🚀 Skills
+
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+- DBMS
+- SQL
+- Responsive Web Design
+
+---
+
+## 📚 Education
+
+- BICTE from Sukuna Multiple Campus
+- +2 (MAJOR BIOLOGY) from Vishwa Adarsha Academy
+
+
+---
+
+## 🛠️ Projects
+
+### College Website
+Responsive college website built using HTML and CSS.
+
+### Portfolio Website
+Personal portfolio website showcasing skills and projects.
+
+### DBMS Lab Work
+Database design and SQL practice projects.
+
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/deekshika-adhikari-66857b411/
+- Email:deekshikaadhikari@gmail.com
+
+---
+
+⭐ Thank you for visiting my profile!
