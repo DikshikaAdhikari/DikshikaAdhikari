@@ -6,6 +6,8 @@
 🌱 Currently learning HTML, CSS, JavaScript, DBMS, and MERN Stack  
 🎯 Goal: Become a Full-Stack Developer
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=BICTE+Student;Web+Developer;Learning+MERN+Stack;Future+Full+Stack+Developer)](https://git.io/typing-svg)
+
 ---
 ![](https://komarev.com/ghpvc/?username=DikshikaAdhikari&label=Profile%20Views&color=0e75b6&style=flat)
 
