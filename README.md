@@ -7,6 +7,7 @@
 🎯 Goal: Become a Full-Stack Developer
 
 ---
+![](https://komarev.com/ghpvc/?username=DikshikaAdhikari&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## 🚀 Skills
 
