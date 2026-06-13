@@ -1,24 +1,30 @@
 # Dikshika-Adhikari
 # Hi 👋, I'm Dikshika Adhikari
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=BICTE+Student;Web+Developer;Learning+MERN+Stack;Future+Full+Stack+Developer)](https://git.io/typing-svg)
+
 🎓 BICTE Student from Nepal  
 💻 Passionate about Web Development and Database Management  
 🌱 Currently learning HTML, CSS, JavaScript, DBMS, and MERN Stack  
 🎯 Goal: Become a Full-Stack Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=BICTE+Student;Web+Developer;Learning+MERN+Stack;Future+Full+Stack+Developer)](https://git.io/typing-svg)
+
 
 ---
 ![](https://komarev.com/ghpvc/?username=DikshikaAdhikari&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## 🚀 Skills
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - Git & GitHub
 - DBMS
+- DSA
+- PHP
 - SQL
+- c
+- c++
 - Responsive Web Design
 
 ---
