@@ -1,161 +1,284 @@
+
 # 👋 Hi, I'm Dikshika Adhikari
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=BICTE+Student;Web+Developer;MERN+Stack+Learner;Future+Full+Stack+Developer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=BICTE+Student;MERN+Stack+Developer+in+Progress;JavaScript+%7C+React+%7C+Node.js;Building+Full-Stack+Web+Applications" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/DikshikaAdhikari">
-    <img src="https://komarev.com/ghpvc/?username=DikshikaAdhikari&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=DikshikaAdhikari&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views"/>
   </a>
 </p>
 
 ---
 
-## 💫 About Me
+## 👩‍💻 About Me
 
-🎓 **BICTE Student** from Nepal
-💻 Passionate about **Web Development & Database Management**
-🌱 Currently learning **JavaScript, React, Node.js, Express.js & MERN Stack**
-🧠 Interested in **problem-solving, databases, and software development**
-🚀 Building projects to strengthen my development skills
-🎯 **Goal:** Become a skilled **Full-Stack Developer**
+I'm a **BICTE student from Nepal** and an aspiring **MERN Stack Developer** passionate about building modern, responsive, and functional web applications.
+
+I enjoy learning by building projects and working with both frontend and backend technologies. Currently, I'm focused on **JavaScript, React, Node.js, Express.js, and databases** while developing my full-stack development skills.
+
+* 🎓 BICTE Student
+* 💻 Aspiring MERN Stack Developer
+* ⚛️ Learning React
+* 🟢 Learning Node.js & Express.js
+* 🗄️ Working with SQL & PostgreSQL
+* 🔐 Learning authentication and authorization
+* 🔗 Building and consuming REST APIs
+* 🧠 Practicing DSA & problem-solving
+* 🚀 Interested in full-stack web development
+
+---
+
+## ⚡ MERN Stack
+
+### MongoDB
+
+* NoSQL database fundamentals
+* Collections & documents
+* CRUD operations
+* Data modeling
+* Database integration
+
+### Express.js
+
+* REST API development
+* Routing
+* Middleware
+* Request & response handling
+* Error handling
+* API structure
+
+### React
+
+* Components
+* Props & State
+* Hooks
+* Forms
+* Event handling
+* API integration
+* React Router
+* Reusable components
+
+### Node.js
+
+* Server-side JavaScript
+* REST APIs
+* npm packages
+* Authentication
+* Backend development
+* Asynchronous programming
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,cpp,c,php" />
+</p>
+
+### Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### ⚙️ Backend & Database
+### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 💻 Programming & Tools
+### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-## 📚 Skills & Concepts
+## 🔥 Full-Stack Development
 
-* HTML5
-* CSS3
-* JavaScript
-* React
-* Node.js
-* Express.js
-* PHP
-* SQL
-* PostgreSQL
-* DBMS
-* Data Structures & Algorithms
-* C
-* C++
-* Git & GitHub
-* Responsive Web Design
-* DOM Manipulation
-* REST APIs
-
----
-
-## 🎓 Education
-
-**🎓 Bachelor in Information and Communication Technology Education (BICTE)**
-Sukuna Multiple Campus, Nepal
-
-**📖 Higher Secondary Education (+2)**
-Major: Biology
-Vishwa Adarsha Academy, Nepal
-
----
-
-## 🚀 Projects & Practice
-
-### 🌐 College Website
-
-A responsive college website created using **HTML and CSS**, focusing on layout, styling, and responsive web design.
-
-### 💻 Portfolio Website
-
-A personal portfolio website created to showcase my **skills, projects, and learning journey**.
-
-### 🗄️ DBMS Lab Work
-
-Database design and SQL practice covering **tables, queries, relationships, and database management concepts**.
-
-### 🟨 JavaScript Practice
-
-A collection of **raw JavaScript practice files and experiments** created while learning JavaScript fundamentals, DOM manipulation, functions, arrays, objects, classes, APIs, and asynchronous programming.
-
----
-
-## 🌱 Currently Learning
+I'm learning how to build applications from frontend to backend:
 
 ```text
-HTML & CSS
-     ↓
+                    FULL-STACK DEVELOPMENT
+
+                         React
+                           ↓
+                    User Interface
+                           ↓
+                       REST API
+                           ↓
+                   Node.js + Express
+                           ↓
+                     Authentication
+                           ↓
+                       Database
+                           ↓
+                    MongoDB / SQL
+```
+
+---
+
+## 🔐 Backend Skills I'm Learning
+
+* RESTful API development
+* CRUD operations
+* Authentication & Authorization
+* JWT
+* Password hashing
+* Middleware
+* Role-based access control
+* API validation
+* Error handling
+* Database relationships
+* Backend architecture
+
+---
+
+## ⚛️ React Skills I'm Learning
+
+* Functional Components
+* JSX
+* Props
+* State Management
+* `useState`
+* `useEffect`
+* Forms
+* Event Handling
+* React Router
+* Protected Routes
+* API Integration
+* Axios
+* Reusable Components
+
+---
+
+## 🗄️ Database Skills
+
+* SQL
+* PostgreSQL
+* MySQL
+* Database design
+* Tables & relationships
+* Primary & foreign keys
+* CRUD operations
+* Queries
+* Data modeling
+
+Currently expanding my knowledge toward **MongoDB** as part of the MERN stack.
+
+---
+
+## 🚀 Current Focus
+
+```text
 JavaScript
-     ↓
+    ↓
 React
-     ↓
-Node.js + Express
-     ↓
-Databases & REST APIs
-     ↓
+    ↓
+Node.js
+    ↓
+Express.js
+    ↓
+REST APIs
+    ↓
+Authentication
+    ↓
+Databases
+    ↓
 MERN Stack
-     ↓
+    ↓
 Full-Stack Development 🚀
 ```
 
 ---
 
+## 📂 Projects & Practice
+
+### 🏥 Hospital Management System
+
+A full-stack web application built to practice real-world application development.
+
+**Features include:**
+
+* 👤 Role-based users
+* 🔐 Authentication
+* 👨‍⚕️ Doctor management
+* 🧑‍💼 Receptionist workflow
+* 🧑‍🦽 Patient management
+* 📅 Appointment management
+* 🏢 Department management
+* 🔗 REST APIs
+* 🗄️ PostgreSQL database
+
+**Technologies:**
+
+`React` `Node.js` `Express.js` `PostgreSQL` `Sequelize`
+
+### 🟨 JavaScript Practice
+
+A collection of raw JavaScript practice files created while learning and experimenting with JavaScript concepts.
+
+**Topics include:**
+
+`Functions` `Arrays` `Objects` `DOM` `Events` `Classes` `OOP` `APIs` `Async/Await`
+
+---
+
+## 📚 Education
+
+**Bachelor in Information and Communication Technology Education (BICTE)**
+Sukuna Multiple Campus, Nepal
+
+**+2 — Major: Biology**
+Vishwa Adarsha Academy, Nepal
+
+---
+
 ## 🎯 2026 Goals
 
-* 🚀 Strengthen JavaScript fundamentals
-* ⚛️ Improve React skills
-* 🟢 Learn advanced Node.js & Express
-* 🗄️ Improve database design and SQL
-* 🔗 Build full-stack applications
-* 🧩 Improve DSA and problem-solving
-* 📂 Build a stronger GitHub portfolio
-* 💼 Prepare for a career in Full-Stack Development
+* [x] Learn HTML & CSS
+* [x] Learn JavaScript fundamentals
+* [x] Practice Git & GitHub
+* [ ] Improve advanced JavaScript
+* [ ] Become confident with React
+* [ ] Strengthen Node.js & Express
+* [ ] Learn MongoDB deeply
+* [ ] Build more MERN applications
+* [ ] Improve DSA & problem-solving
+* [ ] Contribute to open-source projects
+* [ ] Become a Full-Stack Developer 🚀
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DikshikaAdhikari&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikshikaAdhikari&layout=compact&theme=tokyonight&hide_border=true" height="165">
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DikshikaAdhikari&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DikshikaAdhikari&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikshikaAdhikari&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/deekshika-adhikari-66857b411/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+<p>
+  <a href="https://www.linkedin.com/in/deekshika-adhikari-66857b411/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:deekshikaadhikari@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -163,13 +286,12 @@ Full-Stack Development 🚀
 
 ## 💭 Developer Mindset
 
-> **Learn. Build. Break. Debug. Improve. Repeat. 🔁**
+> **Learn → Build → Debug → Improve → Repeat 🔁**
 
-I'm continuously learning, experimenting with new technologies, and building projects to become a better developer.
-
----
+I'm continuously learning new technologies, building applications, and improving my skills one project at a time.
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! ⭐
+  <b>🚀 On the journey to becoming a Full-Stack MERN Developer.</b>
 </p>
+
 
