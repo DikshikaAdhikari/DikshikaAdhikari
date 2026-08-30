@@ -5,7 +5,7 @@ AI-Powered MERN Stack Developer in Progress
 </h3>
 
 <p align="center">
-BICTE Student · JavaScript Developer · Full-Stack Development Enthusiast
+JavaScript Developer · Full-Stack Development Enthusiast
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ BICTE Student · JavaScript Developer · Full-Stack Development Enthusiast
 
 ## 👋 About Me
 
-I'm **Dikshika Adhikari**, a **BICTE student and aspiring Full-Stack Developer from Nepal** with a passion for turning ideas into functional and meaningful web applications.
+I'm  a **BICTE student and aspiring Full-Stack Developer from Nepal** with a passion for turning ideas into functional and meaningful web applications.
 
 💻 I enjoy working with **JavaScript, React, Node.js, and modern web technologies**, while continuously improving my problem-solving and development skills.
 
@@ -92,23 +92,7 @@ I'm **Dikshika Adhikari**, a **BICTE student and aspiring Full-Stack Developer f
   <img src="https://img.shields.io/badge/TypeScript-Learning-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
 
-## 🤖 Currently Learning
 
-### AI × MERN
-
-Exploring the combination of:
-
-**React + Node.js + Express + MongoDB + AI**
-
-Learning to build smarter and more useful full-stack applications.
-
-### TypeScript
-
-Currently learning:
-
-`Types` · `Type Annotations` · `Type Aliases` · `Interfaces` · `Generics`
-
----
 
 ## 🚀 Featured Project
 
@@ -131,25 +115,29 @@ A full-stack hospital management application designed to manage essential health
 
 ---
 
-## 📈 My Development Journey
+## 🚀 Development Journey
 
-```text
-JavaScript
-     ↓
-React
-     ↓
-Node.js + Express
-     ↓
-Databases + REST APIs
-     ↓
-MERN Stack
-     ↓
-TypeScript
-     ↓
-AI + MERN
-     ↓
-Full-Stack Development
-```
+<p align="center">
+  <strong>JavaScript</strong>
+  &nbsp;→&nbsp;
+  <strong>React</strong>
+  &nbsp;→&nbsp;
+  <strong>Node.js</strong>
+  &nbsp;→&nbsp;
+  <strong>Express.js</strong>
+  &nbsp;→&nbsp;
+  <strong>Databases</strong>
+  &nbsp;→&nbsp;
+  <strong>MERN</strong>
+  &nbsp;→&nbsp;
+  <strong>TypeScript</strong>
+  &nbsp;→&nbsp;
+  <strong>AI + MERN</strong>
+</p>
+
+<p align="center">
+  <i>Learning → Building → Debugging → Growing 🚀</i>
+</p>
 
 ---
 
