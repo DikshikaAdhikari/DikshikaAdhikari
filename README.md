@@ -7,6 +7,10 @@ AI-Powered MERN Stack Developer in Progress
 <p align="center">
 JavaScript Developer · Full-Stack Development Enthusiast
 </p>
+<hr>
+
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
@@ -143,14 +147,22 @@ A full-stack hospital management application designed to manage essential health
 
 ## 🎯 2026 Focus
 
-* Build more real-world MERN applications
-* Strengthen JavaScript & TypeScript
-* Learn practical AI integration
-* Improve backend development
-* Practice DSA & problem solving
-* Grow into a confident full-stack developer
+<p align="center">
+  🚀 <strong>Master MERN</strong>
+  &nbsp; • &nbsp;
+  🤖 <strong>Explore AI</strong>
+  &nbsp; • &nbsp;
+  ⚡ <strong>Learn TypeScript</strong>
+  &nbsp; • &nbsp;
+  🧠 <strong>Improve DSA</strong>
+  &nbsp; • &nbsp;
+  💻 <strong>Build Real-World Projects</strong>
+</p>
 
----
+<p align="center">
+  <i>From learning the fundamentals to building intelligent full-stack applications.</i>
+</p>
+
 
 <h2 align="center">✨ Building. Learning. Improving. 🚀</h2>
 
