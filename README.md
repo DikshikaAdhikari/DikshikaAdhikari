@@ -1,9 +1,15 @@
 
 <h1 align="center">👋 HI, I'M DIKSHIKA ADHIKARI</h1>
 
-<h1 align="center">🚀 ASPIRING AI-POWERED FULL-STACK DEVELOPER</h1>
 
-<h2 align="center">💻 MERN STACK • 🤖 AI • 🟦 TYPESCRIPT</h2>
+
+<h1 >🚀 ASPIRING AI-POWERED FULL-STACK DEVELOPER</h1>
+
+
+
+<h2 >💻 MERN STACK • 🤖 AI • 🟦 TYPESCRIPT</h2>
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=2500&pause=800&color=0E75B6&center=true&vCenter=true&width=950&lines=🎓+BICTE+Student;⚡+JavaScript+Developer;⚛️+MERN+Stack+Developer+in+Progress;🤖+AI+%2B+MERN+Learner;🟦+TypeScript+Learner;🚀+Building+Full-Stack+Applications" />
