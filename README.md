@@ -1,147 +1,142 @@
+<h1 align="center">Hi, I'm Dikshika Adhikari 👋</h1>
 
-<h1 align="center">Dikshika Adhikari</h1>
+<h3 align="center">
+AI-Powered MERN Stack Developer in Progress
+</h3>
 
 <p align="center">
-  <strong>AI-Powered MERN Stack Developer in Progress</strong>
+BICTE Student · JavaScript Developer · Full-Stack Development Enthusiast
 </p>
 
 <p align="center">
-  BICTE Student · JavaScript Developer · Full-Stack Development Enthusiast
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 
 <p align="center">
-  <a href="https://github.com/DikshikaAdhikari">GitHub</a>
-  ·
-  <a href="https://www.linkedin.com/in/deekshika-adhikari-66857b411/">LinkedIn</a>
-  ·
-  <a href="mailto:deekshikaadhikari@gmail.com">Email</a>
+  <a href="https://github.com/DikshikaAdhikari">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/deekshika-adhikari-66857b411/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:deekshikaadhikari@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 ---
 
-## About Me
+## 👩‍💻 About Me
 
-I'm a **BICTE student from Nepal** with a strong interest in building modern web applications and understanding how things work behind the interface.
+I'm a **BICTE student from Nepal** passionate about creating modern, practical web applications.
 
-I'm currently working through an **AI-Powered MERN Stack course**, strengthening my foundation in JavaScript and full-stack development while exploring how AI can be integrated into real-world applications.
+Currently, I'm working on an **AI-Powered MERN Stack course**, strengthening my JavaScript and full-stack development skills while exploring how AI can be integrated into real-world applications.
 
-I learn primarily by **building projects, solving problems, debugging code, and experimenting with new technologies.**
+I believe in:
 
-**Currently focused on:** MERN Stack · AI Integration · TypeScript · REST APIs · Full-Stack Development
+> **Learn → Build → Debug → Improve**
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,ts" />
+`HTML` · `CSS` · `JavaScript` · `React` · `TypeScript`
 
-**Backend & APIs**
+**Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+`Node.js` · `Express.js` · `REST APIs` · `JWT`
 
-**Databases**
+**Database**
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+`MongoDB` · `PostgreSQL` · `MySQL`
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+`Git` · `GitHub` · `VS Code`
 
 ---
 
-## Featured Project
+## 🤖 Currently Learning
 
-### Hospital Management System
+### AI × MERN
 
-A full-stack hospital management application developed to manage core healthcare workflows.
+Exploring the combination of:
 
-**Features**
+**React + Node.js + Express + MongoDB + AI**
 
-* Doctor and patient management
-* Department management
-* Appointment management
-* Authentication and authorization
-* Role-based access control
-* REST API integration
-* PostgreSQL database
+Learning to build smarter and more useful full-stack applications.
 
-**Built with**
+### TypeScript
+
+Currently learning:
+
+`Types` · `Type Annotations` · `Type Aliases` · `Interfaces` · `Generics`
+
+---
+
+## 🚀 Featured Project
+
+### 🏥 Hospital Management System
+
+A full-stack hospital management application designed to manage essential healthcare workflows.
+
+**Includes:**
+
+* 👨‍⚕️ Doctor Management
+* 🧑 Patient Management
+* 🏢 Department Management
+* 📅 Appointment Management
+* 🔐 Authentication & Authorization
+* 👥 Role-Based Access
+
+**Built with:**
 
 `React` `Node.js` `Express.js` `PostgreSQL` `JWT`
 
 ---
 
-## Currently Learning
-
-### AI × MERN Stack
-
-Exploring the development of intelligent web applications using:
-
-`React` · `Node.js` · `Express.js` · `MongoDB` · `AI APIs`
-
-### TypeScript
-
-Currently building a foundation in:
-
-`Basic Types` · `Type Annotations` · `Type Aliases` · `Interfaces` · `Generics`
-
-### JavaScript
-
-Continuously improving:
-
-`ES6+` · `Async/Await` · `APIs` · `OOP` · `DOM` · `Problem Solving`
-
----
-
-## Development Focus
+## 📈 My Development Journey
 
 ```text
-Frontend Development
-        ↓
-React & Modern UI
-        ↓
+JavaScript
+     ↓
+React
+     ↓
 Node.js + Express
-        ↓
-REST APIs & Authentication
-        ↓
-Database Integration
-        ↓
+     ↓
+Databases + REST APIs
+     ↓
 MERN Stack
-        ↓
-AI Integration
-        ↓
-Full-Stack Applications
+     ↓
+TypeScript
+     ↓
+AI + MERN
+     ↓
+Full-Stack Development
 ```
 
 ---
 
-## Goals
+## 🎯 2026 Focus
 
-* Build production-style MERN applications
-* Strengthen JavaScript and TypeScript
-* Develop stronger backend and API skills
-* Explore practical AI integration
-* Improve DSA and problem-solving
-* Contribute to real-world projects
+* Build more real-world MERN applications
+* Strengthen JavaScript & TypeScript
+* Learn practical AI integration
+* Improve backend development
+* Practice DSA & problem solving
 * Grow into a confident full-stack developer
 
 ---
 
-## GitHub
+<h2 align="center">✨ Building. Learning. Improving. 🚀</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DikshikaAdhikari&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikshikaAdhikari&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
----
-
-<p align="center">
-  <strong>Building. Learning. Improving.</strong>
-</p>
-
-<p align="center">
-  <sub>Always curious. Always coding.</sub>
+  <i>Turning ideas into code, one project at a time.</i>
 </p>
