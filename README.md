@@ -37,17 +37,16 @@ BICTE Student · JavaScript Developer · Full-Stack Development Enthusiast
 
 ---
 
-## 👩‍💻 About Me
+## 👋 About Me
 
-I'm a **BICTE student from Nepal** passionate about creating modern, practical web applications.
+I'm **Dikshika Adhikari**, a **BICTE student and aspiring Full-Stack Developer from Nepal** with a passion for turning ideas into functional and meaningful web applications.
 
-Currently, I'm working on an **AI-Powered MERN Stack course**, strengthening my JavaScript and full-stack development skills while exploring how AI can be integrated into real-world applications.
+💻 I enjoy working with **JavaScript, React, Node.js, and modern web technologies**, while continuously improving my problem-solving and development skills.
 
-I believe in:
+🤖 Currently, I'm exploring **AI-powered applications with the MERN Stack**, learning how to combine intelligent features with scalable full-stack solutions.
 
-> **Learn → Build → Debug → Improve**
+🌱 **Always learning. Always building. Always improving.**
 
----
 
 ## 🛠️ Tech Stack
 
