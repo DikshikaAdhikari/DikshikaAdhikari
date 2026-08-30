@@ -1,215 +1,267 @@
 
-# 👋 HI, I'M DIKSHIKA ADHIKARI
+<h1 align="center">👋 HEY, I'M DIKSHIKA ADHIKARI</h1>
 
-<h1 align="center">🚀 ASPIRING MERN STACK DEVELOPER</h1>
-
-<h3 align="center">
-💻 BICTE Student • JavaScript Developer • MERN Stack Learner
-</h3>
+<h2 align="center">🚀 ASPIRING MERN STACK DEVELOPER</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=BICTE+Student;MERN+Stack+Developer+in+Progress;JavaScript+Developer;Building+Full-Stack+Applications;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2500&pause=800&color=0E75B6&center=true&vCenter=true&width=850&lines=💻+BICTE+Student;⚡+JavaScript+Developer;⚛️+MERN+Stack+Learner;🟦+Exploring+TypeScript;🚀+Building+Full-Stack+Applications" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DikshikaAdhikari&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 </p>
 
 <p align="center">
   <a href="https://github.com/DikshikaAdhikari">
-    <img src="https://img.shields.io/badge/GitHub-DikshikaAdhikari-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/deekshika-adhikari-66857b411/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:deekshikaadhikari@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-# 🌟 ABOUT ME
+<h1>🌟 WHO AM I?</h1>
 
-🎓 **BICTE Student from Nepal** passionate about technology and software development.
+<table>
+<tr>
+<td width="60%">
 
-💻 I enjoy turning ideas into **functional, user-friendly web applications**.
+### 👩‍💻 A Developer in Progress
 
-🌱 Currently focused on strengthening my skills in **JavaScript, React, Node.js, Express.js, and databases**.
+🎓 **BICTE Student | Nepal**
 
-🚀 Building **real-world full-stack projects** while continuously improving my development skills.
+💻 Passionate about **Web & Software Development**
 
-🧠 Interested in **problem solving, DSA, APIs, authentication, and backend development**.
+⚡ Turning ideas into **real-world applications**
 
-🎯 **My goal is to become a skilled Full-Stack MERN Developer.**
+🌱 Currently growing with the **MERN Stack**
 
----
+🟦 Exploring **TypeScript**
 
-# ⚡ MY DEVELOPMENT JOURNEY
+🧠 Learning through **projects, debugging & problem solving**
+
+🎯 Working toward becoming a **Full-Stack Developer**
+
+</td>
+
+<td width="40%">
 
 ```text
-JavaScript
-    ↓
-React
-    ↓
-Node.js + Express.js
-    ↓
-Databases + REST APIs
-    ↓
-Authentication & Authorization
-    ↓
-Full-Stack Applications
-    ↓
-🚀 Full-Stack MERN Developer
+╔══════════════════════╗
+║   💻 DEVELOPER       ║
+╠══════════════════════╣
+║ ⚡ JavaScript        ║
+║ ⚛️ React             ║
+║ 🟢 Node.js           ║
+║ 🚂 Express.js        ║
+║ 🍃 MongoDB           ║
+║ 🐘 PostgreSQL        ║
+║ 🟦 TypeScript        ║
+╚══════════════════════╝
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🛠️ TECH STACK
+<h1>⚡ MY TECH WORLD</h1>
 
-<h2>💻 Frontend</h2>
+<h2>🎨 FRONTEND</h2>
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-**HTML • CSS • JavaScript • React • Responsive UI**
-
-<h2>⚙️ Backend</h2>
+<h2>⚙️ BACKEND</h2>
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-**Node.js • Express.js • REST APIs • Authentication • JWT**
-
-<h2>🗄️ Databases</h2>
+<h2>🗄️ DATABASE</h2>
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
 </p>
 
-**MongoDB • PostgreSQL • MySQL • SQL**
-
-<h2>🔧 Tools</h2>
+<h2>🛠️ TOOLS</h2>
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-**Git • GitHub • VS Code**
-
 ---
 
-# 🚀 WHAT I CAN BUILD
+<h1>🔥 WHAT I'M WORKING ON</h1>
 
-| 💡 Area           | 🔥 Skills                                   |
-| ----------------- | ------------------------------------------- |
-| 🎨 Frontend       | React, JavaScript, HTML, CSS, Responsive UI |
-| ⚙️ Backend        | Node.js, Express.js, REST APIs              |
-| 🗄️ Database      | MongoDB, PostgreSQL, MySQL                  |
-| 🔐 Authentication | JWT, Login/Register, Role-Based Access      |
-| 🔄 APIs           | CRUD, REST API Integration                  |
-| 🧩 Full-Stack     | Frontend + Backend + Database Integration   |
+<table>
+<tr>
+<td width="50%">
 
----
+<h2>🏥 Hospital Management System</h2>
 
-# 📂 FEATURED PROJECT
+<p>
+A full-stack healthcare management application built to handle essential hospital workflows.
+</p>
 
-## 🏥 Hospital Management System
-
-> **A full-stack hospital management application designed to manage healthcare workflows efficiently.**
-
-### ✨ Features
+<b>✨ Features</b>
 
 * 👨‍⚕️ Doctor Management
-* 🧑‍🤝‍🧑 Patient Management
-* 🏢 Department Management
-* 📅 Appointment Management
-* 🔐 Authentication & Authorization
+* 🧑 Patient Management
+* 🏢 Departments
+* 📅 Appointments
+* 🔐 Authentication
 * 👥 Role-Based Access
-* 🔄 REST API Integration
-* 🗄️ PostgreSQL Database
+* 🔄 REST APIs
+* 🗄️ PostgreSQL
 
-### 🧰 Built With
+<br>
 
-`React` `Node.js` `Express.js` `PostgreSQL` `REST API` `JWT`
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres" />
 
----
+</td>
 
-# 🟨 JAVASCRIPT PRACTICE
+<td width="50%">
 
-Currently strengthening my JavaScript fundamentals through hands-on practice.
+<h2>🟨 JavaScript Practice</h2>
 
-### 📚 Topics
+<p>
+Strengthening my JavaScript fundamentals through hands-on coding and mini projects.
+</p>
 
-`Functions` • `Arrays` • `Objects` • `DOM` • `Events` • `OOP` • `APIs`
+<b>📚 Practicing</b>
 
-💡 **Learning by building small projects, debugging problems, and writing code consistently.**
+`Functions`
 
----
+`Arrays`
 
-# 📘 CURRENTLY LEARNING
+`Objects`
 
-### 🟦 TypeScript
+`DOM`
 
-Learning the fundamentals of TypeScript to write **safer, more maintainable JavaScript applications**.
+`Events`
 
-Currently exploring:
+`OOP`
 
-`Basic Types` • `Type Annotations` • `Type Aliases` • `Interfaces` • `Generics`
+`APIs`
 
-### ⚛️ MERN Stack
+<br>
 
-Deepening my understanding of:
+💡 <b>Learn → Build → Debug → Repeat</b>
 
-`React` • `Node.js` • `Express.js` • `MongoDB` • `REST APIs` • `Authentication`
-
----
-
-# 🎯 2026 GOALS
-
-🚀 **Master JavaScript**
-
-⚛️ **Become confident with React**
-
-🟢 **Strengthen Node.js & Express.js**
-
-🍃 **Learn MongoDB deeply**
-
-🔗 **Build more production-style MERN applications**
-
-🧠 **Improve DSA & Problem Solving**
-
-📘 **Strengthen TypeScript**
-
-💼 **Grow into a confident Full-Stack Developer**
+</td>
+</tr>
+</table>
 
 ---
 
-# 📊 GITHUB ACTIVITY
+<h1>🟦 CURRENTLY LEARNING</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DikshikaAdhikari&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
+### ⚛️ MERN STACK
+
+`React` → `Node.js` → `Express.js` → `MongoDB`
+
+### 🟦 TYPESCRIPT
+
+`Types` → `Interfaces` → `Type Aliases` → `Generics`
+
+### 🧠 DEVELOPMENT
+
+`REST APIs` → `JWT` → `CRUD` → `Authentication` → `Problem Solving`
+
+</p>
+
+---
+
+<h1>🚀 MY DEVELOPER ROADMAP</h1>
+
+<p align="center">
+
+```text
+        🟨 JavaScript
+              │
+              ▼
+         ⚛️ React
+              │
+              ▼
+      🟢 Node.js + Express
+              │
+              ▼
+      🗄️ Database + APIs
+              │
+              ▼
+       🔐 Authentication
+              │
+              ▼
+      🚀 Full-Stack Projects
+              │
+              ▼
+     💼 FULL-STACK DEVELOPER
+```
+
+</p>
+
+---
+
+<h1>🎯 2026 GOALS</h1>
+
+| 🚀 Goal                        | 📌 Progress    |
+| ------------------------------ | -------------- |
+| 🟨 Master JavaScript           | 🔥 In Progress |
+| ⚛️ Master React                | 🌱 Learning    |
+| 🟢 Strengthen Node.js          | 🌱 Learning    |
+| 🚂 Improve Express.js          | 🌱 Learning    |
+| 🍃 Learn MongoDB               | 🎯 Next        |
+| 🟦 Learn TypeScript            | 🔥 In Progress |
+| 🔗 Build MERN Projects         | 🚀 Building    |
+| 🧠 Improve DSA                 | 🌱 Learning    |
+| 💼 Become Full-Stack Developer | 🎯 Goal        |
+
+---
+
+<h1>📊 GITHUB STATS</h1>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DikshikaAdhikari&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikshikaAdhikari&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
 </p>
 
----
-
-# 🌐 LET'S CONNECT
-
-<p>
-  <a href="https://www.linkedin.com/in/deekshika-adhikari-66857b411/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:deekshikaadhikari@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DikshikaAdhikari&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 ---
 
-<h1 align="center">💻 LEARN • BUILD • DEBUG • IMPROVE 🚀</h1>
-
-<h2 align="center">
-✨ Turning ideas into code, one project at a time.
-</h2>
+<h1>🌐 LET'S CONNECT</h1>
 
 <p align="center">
-  <b>🚀 On my journey to becoming a Full-Stack MERN Developer.</b>
+  <a href="https://www.linkedin.com/in/deekshika-adhikari-66857b411/">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:deekshikaadhikari@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
-**
+<br>
+
+<h1 align="center">✨ CODE. CREATE. DEBUG. REPEAT. ✨</h1>
+
+<h2 align="center">🚀 Building today. Becoming better tomorrow.</h2>
+
+<p align="center">
+  <b>💻 On my journey from MERN learner → Full-Stack Developer.</b>
+</p>
+
+<p align="center">
+  ⭐ <i>Thanks for visiting my profile!</i> ⭐
+</p>
