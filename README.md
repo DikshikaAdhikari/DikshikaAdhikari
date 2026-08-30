@@ -1,230 +1,186 @@
 
-<h1 align="center">👋 HEY, I'M DIKSHIKA ADHIKARI</h1>
+<h1 align="center">👋 HI, I'M DIKSHIKA ADHIKARI</h1>
 
-<h2 align="center">🚀 ASPIRING MERN STACK DEVELOPER</h2>
+<h1 align="center">🚀 ASPIRING AI-POWERED FULL-STACK DEVELOPER</h1>
+
+<h2 align="center">💻 MERN STACK • 🤖 AI • 🟦 TYPESCRIPT</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2500&pause=800&color=0E75B6&center=true&vCenter=true&width=850&lines=💻+BICTE+Student;⚡+JavaScript+Developer;⚛️+MERN+Stack+Learner;🟦+Exploring+TypeScript;🚀+Building+Full-Stack+Applications" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=2500&pause=800&color=0E75B6&center=true&vCenter=true&width=950&lines=🎓+BICTE+Student;⚡+JavaScript+Developer;⚛️+MERN+Stack+Developer+in+Progress;🤖+AI+%2B+MERN+Learner;🟦+TypeScript+Learner;🚀+Building+Full-Stack+Applications" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DikshikaAdhikari&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/DikshikaAdhikari">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/deekshika-adhikari-66857b411/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:deekshikaadhikari@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,postgres,git,github,vscode&perline=6" />
 </p>
 
 ---
 
-<h1>🌟 WHO AM I?</h1>
+<h1>🌟 ABOUT ME</h1>
 
-<table>
-<tr>
-<td width="60%">
+<h2>🎓 BICTE STUDENT FROM NEPAL</h2>
 
-### 👩‍💻 A Developer in Progress
+<h2>💻 PASSIONATE ABOUT WEB DEVELOPMENT & SOFTWARE DEVELOPMENT</h2>
 
-🎓 **BICTE Student | Nepal**
+<h2>🤖 CURRENTLY WORKING ON AN AI-POWERED MERN STACK COURSE</h2>
 
-💻 Passionate about **Web & Software Development**
+<h2>⚛️ BUILDING FULL-STACK WEB APPLICATIONS</h2>
 
-⚡ Turning ideas into **real-world applications**
+<h2>🟦 EXPLORING TYPESCRIPT & MODERN DEVELOPMENT</h2>
 
-🌱 Currently growing with the **MERN Stack**
+<h2>🧠 LEARNING THROUGH PROJECTS, DEBUGGING & PROBLEM SOLVING</h2>
 
-🟦 Exploring **TypeScript**
-
-🧠 Learning through **projects, debugging & problem solving**
-
-🎯 Working toward becoming a **Full-Stack Developer**
-
-</td>
-
-<td width="40%">
-
-```text
-╔══════════════════════╗
-║   💻 DEVELOPER       ║
-╠══════════════════════╣
-║ ⚡ JavaScript        ║
-║ ⚛️ React             ║
-║ 🟢 Node.js           ║
-║ 🚂 Express.js        ║
-║ 🍃 MongoDB           ║
-║ 🐘 PostgreSQL        ║
-║ 🟦 TypeScript        ║
-╚══════════════════════╝
-```
-
-</td>
-</tr>
-</table>
+<h2>🎯 GOAL: BECOME AN AI-POWERED FULL-STACK DEVELOPER</h2>
 
 ---
 
-<h1>⚡ MY TECH WORLD</h1>
+<h1>🤖 AI × MERN</h1>
+
+<h2 align="center">✨ BUILDING SMARTER APPLICATIONS WITH AI + FULL-STACK TECHNOLOGY ✨</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,ts" />
+</p>
+
+<h2 align="center">
+
+🤖 AI
+⬇️
+⚡ AI APIs
+⬇️
+⚛️ React
+⬇️
+🟢 Node.js + Express
+⬇️
+🍃 MongoDB
+⬇️
+🚀 AI-POWERED WEB APPLICATIONS
+
+</h2>
+
+---
+
+<h1>⚡ MY TECH STACK</h1>
 
 <h2>🎨 FRONTEND</h2>
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts" />
 </p>
+
+<h2>HTML • CSS • JAVASCRIPT • REACT • TYPESCRIPT</h2>
 
 <h2>⚙️ BACKEND</h2>
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
+
+<h2>NODE.JS • EXPRESS.JS • REST APIs • JWT</h2>
 
 <h2>🗄️ DATABASE</h2>
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
 </p>
 
-<h2>🛠️ TOOLS</h2>
+<h2>MONGODB • POSTGRESQL • MYSQL • SQL</h2>
+
+<h2>🔧 TOOLS</h2>
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
+
+<h2>GIT • GITHUB • VS CODE</h2>
 
 ---
 
-<h1>🔥 WHAT I'M WORKING ON</h1>
+<h1>🏥 FEATURED PROJECT</h1>
 
-<table>
-<tr>
-<td width="50%">
+<h1>🏥 HOSPITAL MANAGEMENT SYSTEM</h1>
 
-<h2>🏥 Hospital Management System</h2>
+<h2>🚀 A FULL-STACK APPLICATION FOR MANAGING HOSPITAL WORKFLOWS</h2>
 
-<p>
-A full-stack healthcare management application built to handle essential hospital workflows.
-</p>
+<h2>✨ FEATURES</h2>
 
-<b>✨ Features</b>
+<h2>👨‍⚕️ DOCTOR MANAGEMENT</h2>
+<h2>🧑 PATIENT MANAGEMENT</h2>
+<h2>🏢 DEPARTMENT MANAGEMENT</h2>
+<h2>📅 APPOINTMENT MANAGEMENT</h2>
+<h2>🔐 AUTHENTICATION & AUTHORIZATION</h2>
+<h2>👥 ROLE-BASED ACCESS</h2>
+<h2>🔄 REST API INTEGRATION</h2>
+<h2>🗄️ POSTGRESQL DATABASE</h2>
 
-* 👨‍⚕️ Doctor Management
-* 🧑 Patient Management
-* 🏢 Departments
-* 📅 Appointments
-* 🔐 Authentication
-* 👥 Role-Based Access
-* 🔄 REST APIs
-* 🗄️ PostgreSQL
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres" />
-
-</td>
-
-<td width="50%">
-
-<h2>🟨 JavaScript Practice</h2>
-
-<p>
-Strengthening my JavaScript fundamentals through hands-on coding and mini projects.
-</p>
-
-<b>📚 Practicing</b>
-
-`Functions`
-
-`Arrays`
-
-`Objects`
-
-`DOM`
-
-`Events`
-
-`OOP`
-
-`APIs`
-
-<br>
-
-💡 <b>Learn → Build → Debug → Repeat</b>
-
-</td>
-</tr>
-</table>
-
----
-
-<h1>🟦 CURRENTLY LEARNING</h1>
+<h2>🧰 BUILT WITH</h2>
 
 <p align="center">
-
-### ⚛️ MERN STACK
-
-`React` → `Node.js` → `Express.js` → `MongoDB`
-
-### 🟦 TYPESCRIPT
-
-`Types` → `Interfaces` → `Type Aliases` → `Generics`
-
-### 🧠 DEVELOPMENT
-
-`REST APIs` → `JWT` → `CRUD` → `Authentication` → `Problem Solving`
-
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres" />
 </p>
 
 ---
 
-<h1>🚀 MY DEVELOPER ROADMAP</h1>
+<h1>📚 CURRENTLY LEARNING</h1>
 
-<p align="center">
+<h1>🤖 AI-POWERED MERN STACK</h1>
 
-```text
-        🟨 JavaScript
-              │
-              ▼
-         ⚛️ React
-              │
-              ▼
-      🟢 Node.js + Express
-              │
-              ▼
-      🗄️ Database + APIs
-              │
-              ▼
-       🔐 Authentication
-              │
-              ▼
-      🚀 Full-Stack Projects
-              │
-              ▼
-     💼 FULL-STACK DEVELOPER
-```
+<h2>⚛️ REACT + 🟢 NODE.JS + 🚂 EXPRESS + 🍃 MONGODB + 🤖 AI</h2>
 
-</p>
+<h1>🟦 TYPESCRIPT</h1>
+
+<h2>Basic Types → Type Annotations → Type Aliases → Interfaces → Generics</h2>
+
+<h1>🧠 DEVELOPMENT SKILLS</h1>
+
+<h2>REST APIs • CRUD • AUTHENTICATION • DATABASES • PROBLEM SOLVING</h2>
+
+---
+
+<h1>🚀 MY DEVELOPER JOURNEY</h1>
+
+<h2 align="center">
+
+🟨 JAVASCRIPT
+⬇️
+⚛️ REACT
+⬇️
+🟢 NODE.JS + EXPRESS
+⬇️
+🗄️ DATABASES + APIs
+⬇️
+🔐 AUTHENTICATION
+⬇️
+⚡ MERN STACK
+⬇️
+🟦 TYPESCRIPT
+⬇️
+🤖 AI + MERN
+⬇️
+🚀 <b>AI-POWERED FULL-STACK DEVELOPER</b>
+
+</h2>
 
 ---
 
 <h1>🎯 2026 GOALS</h1>
 
-| 🚀 Goal                        | 📌 Progress    |
-| ------------------------------ | -------------- |
-| 🟨 Master JavaScript           | 🔥 In Progress |
-| ⚛️ Master React                | 🌱 Learning    |
-| 🟢 Strengthen Node.js          | 🌱 Learning    |
-| 🚂 Improve Express.js          | 🌱 Learning    |
-| 🍃 Learn MongoDB               | 🎯 Next        |
-| 🟦 Learn TypeScript            | 🔥 In Progress |
-| 🔗 Build MERN Projects         | 🚀 Building    |
-| 🧠 Improve DSA                 | 🌱 Learning    |
-| 💼 Become Full-Stack Developer | 🎯 Goal        |
+<h2>🚀 MASTER JAVASCRIPT</h2>
+
+<h2>⚛️ BECOME CONFIDENT WITH REACT</h2>
+
+<h2>🟢 STRENGTHEN NODE.JS & EXPRESS.JS</h2>
+
+<h2>🍃 MASTER MONGODB</h2>
+
+<h2>🟦 LEARN TYPESCRIPT</h2>
+
+<h2>🤖 BUILD AI-POWERED MERN APPLICATIONS</h2>
+
+<h2>🔗 BUILD MORE REAL-WORLD PROJECTS</h2>
+
+<h2>🧠 IMPROVE DSA & PROBLEM SOLVING</h2>
+
+<h2>💼 BECOME A FULL-STACK DEVELOPER</h2>
 
 ---
 
@@ -235,10 +191,6 @@ Strengthening my JavaScript fundamentals through hands-on coding and mini projec
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikshikaAdhikari&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DikshikaAdhikari&theme=tokyonight&hide_border=true" width="70%" />
-</p>
-
 ---
 
 <h1>🌐 LET'S CONNECT</h1>
@@ -247,21 +199,20 @@ Strengthening my JavaScript fundamentals through hands-on coding and mini projec
   <a href="https://www.linkedin.com/in/deekshika-adhikari-66857b411/">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:deekshikaadhikari@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<br>
+---
 
-<h1 align="center">✨ CODE. CREATE. DEBUG. REPEAT. ✨</h1>
+<h1 align="center">💻 LEARN • BUILD • DEBUG • CREATE 🤖</h1>
 
-<h2 align="center">🚀 Building today. Becoming better tomorrow.</h2>
+<h1 align="center">✨ TURNING IDEAS INTO INTELLIGENT APPLICATIONS ✨</h1>
 
-<p align="center">
-  <b>💻 On my journey from MERN learner → Full-Stack Developer.</b>
-</p>
+<h2 align="center">🚀 MERN • AI • TYPESCRIPT • FULL-STACK</h2>
 
 <p align="center">
-  ⭐ <i>Thanks for visiting my profile!</i> ⭐
+  <b>⭐ Thanks for visiting my profile! ⭐</b>
 </p>
