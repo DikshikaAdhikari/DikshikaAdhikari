@@ -41,15 +41,20 @@ JavaScript Developer · Full-Stack Development Enthusiast
 
 ---
 
-## 👋 About Me
+## 👋 Hey, I'm future 💻 MERN Stack Developer • AI Enthusiast • Problem Solver
 
-I'm  a **BICTE student and aspiring Full-Stack Developer from Nepal** with a passion for turning ideas into functional and meaningful web applications.
+> **Building ideas into real-world digital experiences.**
 
-💻 I enjoy working with **JavaScript, React, Node.js, and modern web technologies**, while continuously improving my problem-solving and development skills.
+🎓 **BICTE Student** passionate about **Full-Stack Development** and modern web technologies.
 
-🤖 Currently, I'm exploring **AI-powered applications with the MERN Stack**, learning how to combine intelligent features with scalable full-stack solutions.
+⚡ I build scalable and user-focused applications using **JavaScript, React, Node.js, Express.js & MongoDB**, while constantly improving my problem-solving and development skills.
 
-🌱 **Always learning. Always building. Always improving.**
+🤖 Currently exploring **AI-powered applications with the MERN Stack** — combining intelligent technologies with modern full-stack solutions.
+
+🚀 **Learn → Build → Break → Fix → Improve**
+
+🌱 *Always learning. Always building. Always evolving.*
+
 
 
 ## 🛠️ Tech Stack
