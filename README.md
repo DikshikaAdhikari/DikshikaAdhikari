@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dikshika Adhikari 👋</h1>
 
 <h3 align="center">
-AI-Powered MERN Stack Developer in Progress
+AI-POWERED BY MERN STACK DEVELOPER IN PROGRESS.
 </h3>
 
 <p align="center">
