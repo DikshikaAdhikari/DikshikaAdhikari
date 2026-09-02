@@ -9,6 +9,10 @@ JavaScript Developer · Full-Stack Development Enthusiast
 </p>
 <hr>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DikshikaAdhikari&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
 
 
 
