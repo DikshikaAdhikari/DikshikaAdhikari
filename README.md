@@ -1,14 +1,19 @@
 
 <!-- BACKGROUND & HEADER SECTION -->
 
+
 <div align="center">
 
 <img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:102a43,100:0d1117&height=220&section=header&text=Dikshika%20Adhikari&fontSize=42&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20TypeScript&descSize=16&descAlignY=60&descAlign=50" 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:BFEFFF,50:87CEEB,100:38BDF8&height=220&section=header&text=Dikshika%20Adhikari&fontSize=42&fontColor=0d1117&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20TypeScript&descSize=16&descAlignY=60&descAlign=50&descColor=0d1117" 
   width="100%" 
 />
 
 </div>
+
+
+
+
 ### `FULL STACK DEVELOPER IN PROGRESS` • `MERN Stack + AI Integrations`
 
 ```typescript
