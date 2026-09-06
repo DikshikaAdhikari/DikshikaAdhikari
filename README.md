@@ -14,7 +14,7 @@ interface Developer {
   currentQuest: string;
 }
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div align="left">
 
   const dikshika: Developer = {
   name: "Dikshika Adhikari",
