@@ -1,6 +1,6 @@
 
 <!-- BACKGROUND & HEADER SECTION -->
-<div align="center">
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Dikshika%20Adhikari&fontSize=42&fontColor=8b5cf6&animation=fadeIn&fontAlignY=38" width="100%" />
 
