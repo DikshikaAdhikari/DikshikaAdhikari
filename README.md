@@ -113,30 +113,36 @@ $ dikshika --open-to
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=DikshikaAdhikari&show_icons=true&theme=transparent&hide_border=true" 
-    height="170"
-  />
-
-<img 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikshikaAdhikari&layout=compact&theme=transparent&hide_border=true" 
- height="170"
-/>
-
-</p>
-
----
 
 ## 🤝 Let's Connect
 
 <p align="center">
+
   <a href="https://github.com/DikshikaAdhikari">
-    <img 
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/dikshika-adhikari-66857b411/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="deekshikaadhikari@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+</p>
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=DikshikaAdhikari&label=Profile%20Views&color=38BDF8&style=for-the-badge" 
+    alt="Profile Views"
+  />
+</p>
+
+<p align="center">
+  <i>Building. Learning. Experimenting. Evolving.</i>
+</p>
+
   </a>
 </p>
 
