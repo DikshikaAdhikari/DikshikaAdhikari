@@ -14,10 +14,13 @@ interface Developer {
   currentQuest: string;
 }
 
-const dikshika: Developer = {
+<div style="display: flex; justify-content: center; gap: 10px;">
+
+  const dikshika: Developer = {
   name: "Dikshika Adhikari",
   role: "IT Student & Aspiring Full Stack Developer",
   coreFocus: ["MERN Stack", "Next.js", "TypeScript", "AI Integrations"],
   toolset: ["AntiGravity", "Codex"],
   currentQuest: "Building intelligent, scalable web applications with modern AI tooling"
 };
+</div>
