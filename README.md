@@ -1,124 +1,64 @@
-<!-- 🌌 BACKGROUND & HEADER -->
 
+<!-- BACKGROUND & HEADER SECTION -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Dikshika%20Adhikari&fontSize=42&fontColor=8b5cf6&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Dikshika%20Adhikari&fontSize=42&fontColor=8b5cf6&animation=fadeIn&fontAlignY=38" width="100%" />
 
-# 👩‍💻 `Dikshika Adhikari`
+### `Full Stack Engineer in Training` • `MERN + Next.js + AI Integrations`
 
-### `Full Stack Engineer in Training`
-
-**MERN Stack • Next.js • TypeScript • AI Integrations**
-
-```tsx
-import React from "react";
-
-const Developer = () => {
-  const profile = {
-    name: "Dikshika Adhikari",
-    role: "IT Student & Aspiring Full Stack Developer",
-
-    stack: [
-      "React",
-      "Next.js",
-      "Node.js",
-      "Express.js",
-      "TypeScript",
-      "MongoDB"
-    ],
-
-    exploring: [
-      "AI Integrations",
-      "Modern Web Architecture",
-      "Scalable Applications"
-    ],
-
-    tools: [
-      "GitHub",
-      "VS Code",
-      "AntiGravity",
-      "Codex",
-      "Claude",
-      "ChatGPT"
-    ],
-
-    currentlyBuilding:
-      "Intelligent, scalable and user-focused web applications 🚀"
-  };
-
-  return (
-    <DeveloperCard
-      name={profile.name}
-      role={profile.role}
-      stack={profile.stack}
-      exploring={profile.exploring}
-      tools={profile.tools}
-    />
-  );
-};
-
-export default Developer;
-```
-
-### ⚡ `What I'm Working On`
-
-```tsx
-const CurrentQuest = () => (
-  <section>
-    <h3>🚀 Building</h3>
-    <p>
-      Full-stack applications with modern JavaScript,
-      TypeScript and AI-powered features.
-    </p>
-
-    <h3>🧠 Learning</h3>
-    <p>
-      Advanced React, Next.js, backend architecture
-      and AI integrations.
-    </p>
-
-    <h3>🎯 Goal</h3>
-    <p>
-      Become a strong Full Stack Engineer capable of
-      building intelligent real-world products.
-    </p>
-  </section>
-);
-```
-
-### 🛠️ `My Tech Universe`
-
-```tsx
-const TechStack = () => {
-  const technologies = {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-    backend: ["Node.js", "Express.js"],
-    database: ["MongoDB", "PostgreSQL", "Supabase", "Prisma"],
-    ai: ["Claude", "ChatGPT", "Codex"],
-    tools: ["Git", "GitHub", "VS Code", "AntiGravity"]
-  };
-
-  return <DeveloperStack {...technologies} />;
-};
-```
-
-### 💡 `Developer Philosophy`
-
-> **Build → Break → Debug → Learn → Improve → Repeat.**
-
-```tsx
-while (learning) {
-  build();
-  breakSomething();
-  debug();
-  learn();
-  improve();
+```typescript
+interface Developer {
+  name: string;
+  role: string;
+  coreFocus: string[];
+  toolset: string[];
+  currentQuest: string;
 }
-```
 
-### 🌱 `Currently Exploring`
+const dikshika: Developer = {
+  name: "Dikshika Adhikari",
+  role: "IT Student & Aspiring Full Stack Developer",
+  coreFocus: ["MERN Stack", "Next.js", "TypeScript", "AI Integrations"],
+  toolset: ["AntiGravity", "Codex"],
+  currentQuest: "Building intelligent, scalable web applications with modern AI tooling"
+};
 
-`React` • `Next.js` • `TypeScript` • `AI Engineering` • `System Design`
 
-</div>
+🧬 Tech Arsenal & Development Path
+  ┌── [ Complete ] ─────────┐     ┌── [ In Progress ] ──────┐     ┌── [ Target ] ───────────┐  
+  │ • HTML5 / CSS3          │ ──> │ • TypeScript & Next.js  │ ──> │ • AI Agent Workflows    │
+  │ • Modern JavaScript     │     │ • Node.js & MongoDB     │     │ • Full-Stack AI Apps    │
+  │ • Git & Version Control │     │ • AntiGravity & Codex   │     │ • Production Deployments│
+  └─────────────────────────┘     └─────────────────────────┘     └─────────────────────────
 
+
+Core Tech Stack
+
+const stack = {
+  languages  : ["TypeScript", "JavaScript (ES6+)", "HTML5", "CSS3"],
+  frameworks : ["Next.js", "React.js", "Express.js", "Tailwind CSS"],
+  backend    : ["Node.js", "MongoDB"],
+  aiTooling  : ["Codex", "OpenAI API", "Gemini API", "Prompt Engineering"],
+  workflow   : ["AntiGravity", "Git", "GitHub", "VS Code", "Postman"]
+};
+
+
+📊 System Terminal
+
+$ dikshika --status
+> Currently leveling up MERN, Next.js, and TypeScript with hands-on AI feature implementation using Codex and AntiGravity.
+
+$ dikshika --goals
+> 1. Build & deploy 3 production-ready AI-powered full-stack web apps.
+> 2. Master full-stack state management, serverless APIs, and TypeScript architecture.
+> 3. Collaborate on open-source projects bridging web apps and modern AI.
+
+
+
+📫 Connect With Me
+
+{
+  "email": "deekshikaadhikari@gmail.com",
+  "linkedin": "[https://www.linkedin.com/in/dikshika-adhikari-66857b411/](https://www.linkedin.com/in/dikshika-adhikari-66857b411/)",
+  "openTo": ["Collaborations", "Tech Discussions", "Entry Opportunities"]
+}
