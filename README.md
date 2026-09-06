@@ -1,6 +1,6 @@
 
 <!-- HEADER SECTION -->
-<div align="center">
+
 
 # ⚡ Hi, I'm Dikshika Adhikari
 
