@@ -60,7 +60,7 @@ const dikshika: Developer = {
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,typescript" />
 </p>
 
 ### Backend & Database
