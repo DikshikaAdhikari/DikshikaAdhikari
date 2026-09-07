@@ -27,8 +27,6 @@ const dikshika: Developer = {
   role: "IT Student & Aspiring Full Stack Developer",
   coreFocus: [
     "MERN Stack",
-    "Next.js",
-    "TypeScript",
     "AI Integrations"
   ],
   toolset: [
