@@ -48,11 +48,11 @@ const dikshika: Developer = {
 ## 🧬 Tech Arsenal & Development Path
 
 ```text
-┌── [ COMPLETE ] ─────────┐     ┌── [ IN PROGRESS ] ──────┐     ┌── [ TARGET ] ───────────┐
-│ • HTML5 / CSS3          │ ──> │ • TypeScript & Next.js  │ ──> │ • AI Agent Workflows    │
-│ • Modern JavaScript     │     │ • Node.js & MongoDB     │     │ • Full-Stack AI Apps    │
-│ • Git & Version Control │     │ • Antigravity & Codex   │     │ • Production Deployment│
-└─────────────────────────┘     └─────────────────────────┘     └─────────────────────────┘
+┌── [ COMPLETE ] ─────────┐     ┌── [ IN PROGRESS ]     ──────┐     ┌──  [ TARGET ]  ───────────┐
+│ • HTML5 / CSS3          │ ──> │ • TypeScript & Next.js, React ──> │ • AI Agent Workflow       │
+│ • Modern JavaScript     │     │ • Node.js & MongoDB         │     │ • Full-Stack AI Apps      │
+│ • Git & Version Control │     │ • Antigravity & Codex       │     │ • Production Deployment   │
+└─────────────────────────┘     └───── ───────────────   ─────┘     └───────────────────────  ──┘
 ```
 
 ## 🧰 Tech Stack
