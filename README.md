@@ -143,7 +143,3 @@ $ dikshika --open-to
 
   </a>
 </p>
-
-<p align="center">
-  <i>Building. Learning. Experimenting. Evolving.</i>
-</p>
