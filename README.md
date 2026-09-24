@@ -12,37 +12,7 @@ width="100%"
 
 ### `FULL STACK DEVELOPER IN PROGRESS` • `MERN Stack + AI Integrations`
 
-```typescript
-interface Developer {
-  name: string;
-  role: string;
-  coreFocus: string[];
-  toolset: string[];
-  currentQuest: string;
-  openTo: string[];
-}
 
-const dikshika: Developer = {
-  name: "Dikshika Adhikari",
-  role: "IT Student & Aspiring Full Stack Developer",
-  coreFocus: [
-    "MERN Stack",
-    "AI Integrations"
-  ],
-  toolset: [
-    "Antigravity",
-    "Codex",
-    "Git",
-    "GitHub"
-  ],
-  currentQuest:
-    "Building intelligent, scalable web applications with modern AI tooling",
-  openTo: [
-    "Collaborations",
-    "Tech Discussions",
-    "Entry Opportunities"
-  ]
-};
 ```
 
 ## 🧬 Tech Arsenal & Development Path
