@@ -59,7 +59,7 @@ $ dikshika --status
 $ dikshika --goals
 
 > 01. Build & deploy production-ready AI-powered full-stack apps.
-> 02. Master TypeScript architecture, APIs, and state management.
+> 02. Master MERN STACK, APIs, and state management.
 > 03. Collaborate on open-source projects combining web & AI.
 
 $ dikshika --open-to
